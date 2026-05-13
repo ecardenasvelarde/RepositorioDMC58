@@ -4,7 +4,7 @@ st.title("Mi primera aplicación en python")
 
 st.sidebar.title("Parámetros")
 
-st.image("Python_logo.png")
+st.image("DMC.png")
 
 st.write("Elaborado por: Erick Cardenas")
 
